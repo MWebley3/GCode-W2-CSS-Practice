@@ -1,0 +1,13 @@
+h1 {
+  color: pink;
+  font-size: 50px;
+}
+.morphology { color: gray;}
+p {
+  font-size: 15px;
+  color: black;
+  font-family: georgia;
+}
+#funfact { Font-size: 15px;
+          color: hotpink;
+          background-color: lightgray;}
